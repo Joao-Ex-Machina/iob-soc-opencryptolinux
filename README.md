@@ -2,6 +2,8 @@
 
 IOb-SoC-OpenCryptoLinux is a System-on-Chip (SoC) template comprising an open-source RISC-V processor (VexRiscv), an internal boot memory subsystem, a UART, and an interface to external memory. The external memory interface is a 3rd party memory controller IP (typically a DDR controller) using an AXI4 master bus.
 
+An AI generated wiki for iob-soc-opencryptolinux is available [here](https://deepwiki.com/IObundle/iob-soc-opencryptolinux)
+
 * * *
 ## Table of Contents
 - [Getting Started (Quickly)](https://github.com/iobundle/iob-soc-opencryptolinux#getting-started-quickly)
